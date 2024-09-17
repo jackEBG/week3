@@ -1,4 +1,4 @@
 [core]
     remote = localstorage
 ['remote "localstorage"']
-    url = C:/Users/Admin.DESKTOP-M4R2VLU/Desktop/DVCRemote
+    url = C:/Users/Admin.DESKTOP-M4R2VLU/sample_project
